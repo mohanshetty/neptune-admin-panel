@@ -1,0 +1,131 @@
+.darkmode .widget-content-area {
+    background-color: #272727;
+}
+.darkmode .breadcrumb-with-icons .breadcrumb li {
+    background: #191919;
+}
+.darkmode .breadcrumb-with-icons .breadcrumb li a {
+    color: #fff;
+}
+.darkmode .basic-breadcrumb-two li > * {
+    color: #ffffff;
+}
+.darkmode .default-breadcrumb .breadcrumb-item a {
+    color: #ffffff;
+}
+.darkmode .dotted-seperators .breadcrumb li a {
+    color: #fff;
+}
+.darkmode .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #191919 !important;
+}
+.darkmode .grid-area .table td, 
+.darkmode .grid-area .table th {
+    color: #fff;
+}
+.darkmode .grid-area .bg-light-dark {
+    background-color: #191919;
+}
+.darkmode .jumbotron {
+    background-color: #191919;
+}
+.darkmode .list-group-area .list-group-item {
+    background-color: #191919;
+    color: #ffffff;
+}
+.darkmode .progress-area .progress {
+    background-color: #191919;
+}
+.darkmode blockquote.blockquote {
+    background-color: #191919;
+    border: 1px solid #191919;
+}
+.darkmode .default-breadcrumb .breadcrumb-item.active,
+.darkmode .basic-breadcrumb-two li.breadcrumb-item.active,
+.darkmode .dotted-seperators .breadcrumb li.active a,
+.darkmode .breadcrumb-with-icons .breadcrumb li.active a {
+    color: #b68eff !important;
+}
+.darkmode .dotted-seperators .breadcrumb li:not(:first-child):before {
+    background-color: #b68eff;
+}
+.darkmode .list-group-item {
+    background-color: #191919;
+    border: 1px solid rgba(0,0,0,.125);
+}
+.darkmode .list-group-item.active {
+    background-color: #4300bb !important;
+    border-color: #4300bb !important;
+}
+.darkmode .p1 a.is-active, 
+.darkmode .p1 a:hover,
+.darkmode .p3 .is-active,
+.darkmode .p3 a:hover,
+.darkmode .p4 a:hover,
+.darkmode .p4 .is-active,
+.darkmode .p4 .is-active:before,
+.darkmode .p5 .is-active,
+.darkmode .p6 a:hover,
+.darkmode .p6 .is-active,
+.darkmode .p7 .is-active,
+.darkmode .p7 a:hover,
+.darkmode .p8 a:hover,
+.darkmode .p8 a,
+.darkmode .p11 a,
+.darkmode .p12 a:first-of-type, 
+.darkmode .p12 a:last-of-type, 
+.darkmode .p12 .is-active,
+.darkmode .p12 a:hover,
+.darkmode .p13 a:hover,
+.darkmode .page-item.active .page-link {
+    background-color: #673AB7;
+}
+.darkmode .p11 a,
+.darkmode .page-item.active .page-link {
+    border: 1px solid #673AB7;
+}
+.darkmode .p11 a:first-of-type:before {
+    border-right: 22px solid #673AB7;
+}
+.darkmode .p11 a:last-of-type:after {
+    border-left: 22px solid #673AB7;
+}
+.darkmode .p7 a,
+.darkmode .p8 .is-active,
+.darkmode .p8 a,
+.darkmode .p9 a.is-active,
+.darkmode .p9 a:hover,
+.darkmode .p10 a.is-active,
+.darkmode .p10 a:hover  {
+    border: 2px solid #673ab7;
+}
+.darkmode .p5 a,
+.darkmode .p6 a {
+    background-color: rgb(103 58 183 / 32%);
+}
+.darkmode .p4 a {
+    border: 3px solid #673AB7;
+}
+.darkmode .p1 a,
+.darkmode .p3 a,
+.darkmode .p7 a,
+.darkmode .p8 a,
+.darkmode .p9 a,
+.darkmode .p10 a,
+.darkmode .p12 a {
+    color: #ffffff;
+}
+.darkmode .p2 a:hover,
+.darkmode .p2 .is-active,
+.darkmode .page-link:hover {
+    color: #673AB7;
+}
+.darkmode .p2 .is-active li {
+    border-bottom: 3px solid #673AB7;
+}
+.darkmode .ribbon-container .ribbon-primary {
+    background: #5c1ac3;
+}
+.darkmode .ribbon-container .ribbon-primary:before{
+    border-color: #5c1ac3 transparent transparent;
+}
